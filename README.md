@@ -12,6 +12,12 @@ My core focus is practical execution: routing tasks by cost and capability rathe
   The operational core for my local/cloud fleet: a 364-test hermetic terminal monitor, mutation-tested drift guards, protocol specs for concurrent coding agents, and an automated multi-box telemetry pipeline tracking real-world inference throughput across hardware tiers.
 
 * **[ParaKit](https://github.com/sherifican/ParaKit-Open_Source)**  
+  <a href="https://github.com/sherifican/ParaKit-Open_Source">
+    <img src="https://raw.githubusercontent.com/sherifican/ParaKit-Open_Source/main/parakit_repo_banner.svg"
+         alt="ParaKit — Custom Song Creator for Paradiddle &amp; Clone Hero: all-in-one drum chart tool"
+         width="100%">
+  </a>
+
   An open-source desktop audio/MIDI studio (neural stem splitting, spectral transcription, chart editing) built in Python 3.12. It serves as the live production testbed for my multi-agent locking protocols, release-upgrade harnesses, and AST-extracted test suites.
 
 ---

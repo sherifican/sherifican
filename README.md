@@ -1,4 +1,4 @@
-# Micah — Applied AI Systems & DevExa
+# Micah — Applied AI Systems & DevEx
 
 I build and operate multi-node AI workflows, custom developer tooling, and the verification layers that keep them reliable.
 

@@ -13,6 +13,12 @@ My core focus is practical execution: routing tasks by cost and capability rathe
 * **[Agent-FleetOps](https://github.com/sherifican/Agent-FleetOps)**  
   The operational core for my local/cloud fleet: a 364-test hermetic terminal monitor, mutation-tested drift guards, protocol specs for concurrent coding agents, and an automated multi-box telemetry pipeline tracking real-world inference throughput across hardware tiers.
 
+  <a href="https://github.com/sherifican/Agent-FleetOps">
+    <img src="https://raw.githubusercontent.com/sherifican/Agent-FleetOps/main/docs/banner.png"
+         alt="Agent-FleetOps — operational tooling and verification infrastructure for multi-agent fleets"
+         width="100%">
+  </a>
+
 * **[ParaKit](https://github.com/sherifican/ParaKit-Open_Source)**  
 
 

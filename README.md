@@ -19,9 +19,10 @@ My core focus is practical execution: routing tasks by cost and capability rathe
          width="100%">
   </a>
 
-An open-source desktop audio/MIDI studio (neural stem splitting, spectral transcription, chart editing) built in Python 3.12. It serves as the live production testbed for my multi-agent locking protocols, release-upgrade harnesses, and AST-extracted test suites.
 
 * **[ParaKit](https://github.com/sherifican/ParaKit-Open_Source)**  
+
+An open-source desktop audio/MIDI studio (neural stem splitting, spectral transcription, chart editing) built in Python 3.12. It serves as the live production testbed for my multi-agent locking protocols, release-upgrade harnesses, and AST-extracted test suites.
 
 
    <a href="https://github.com/sherifican/ParaKit-Open_Source">

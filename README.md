@@ -1,9 +1,5 @@
 # Micah — Applied AI Systems & DevExa
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sherifican/sherifican/main/assets/banner.png" alt="Micah — Applied AI Systems & DevEx" width="100%" />
-</div>
-
 I build and operate multi-node AI workflows, custom developer tooling, and the verification layers that keep them reliable.
 
 My core focus is practical execution: routing tasks by cost and capability rather than defaulting to the most expensive cloud models, running local inference on dedicated hardware, and writing deterministic guards around probabilistic systems.
@@ -16,7 +12,9 @@ My core focus is practical execution: routing tasks by cost and capability rathe
   The operational core for my local/cloud fleet: a 364-test hermetic terminal monitor, mutation-tested drift guards, protocol specs for concurrent coding agents, and an automated multi-box telemetry pipeline tracking real-world inference throughput across hardware tiers.
 
 * **[ParaKit](https://github.com/sherifican/ParaKit-Open_Source)**  
-  <a href="https://github.com/sherifican/ParaKit-Open_Source">
+
+
+   <a href="https://github.com/sherifican/ParaKit-Open_Source">
     <img src="https://raw.githubusercontent.com/sherifican/ParaKit-Open_Source/main/parakit_repo_banner.svg"
          alt="ParaKit — Custom Song Creator for Paradiddle &amp; Clone Hero: all-in-one drum chart tool"
          width="100%">

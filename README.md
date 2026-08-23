@@ -19,6 +19,8 @@ My core focus is practical execution: routing tasks by cost and capability rathe
          width="100%">
   </a>
 
+An open-source desktop audio/MIDI studio (neural stem splitting, spectral transcription, chart editing) built in Python 3.12. It serves as the live production testbed for my multi-agent locking protocols, release-upgrade harnesses, and AST-extracted test suites.
+
 * **[ParaKit](https://github.com/sherifican/ParaKit-Open_Source)**  
 
 
@@ -27,5 +29,3 @@ My core focus is practical execution: routing tasks by cost and capability rathe
          alt="ParaKit — Custom Song Creator for Paradiddle &amp; Clone Hero: all-in-one drum chart tool"
          width="100%">
   </a>
-
-  An open-source desktop audio/MIDI studio (neural stem splitting, spectral transcription, chart editing) built in Python 3.12. It serves as the live production testbed for my multi-agent locking protocols, release-upgrade harnesses, and AST-extracted test suites.

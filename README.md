@@ -1,8 +1,8 @@
 # Micah — Applied AI Systems & DevEx
+Drummer, systems builder, AI systems architecture & hardware enthusiast.
 
-Drummer, systems builder, AI systems architecture enthusiast, animal lover.  
  
-I build and operate multi-node AI workflows, custom developer tooling, and the verification layers that keep them reliable.
+I build and operate multi-node AI workflows, workflow optimizations, custom developer tooling, and the verification layers that keep them reliable.
 
 My core focus is practical execution: routing tasks by cost and capability rather than defaulting to the most expensive cloud models, running local inference on dedicated hardware, and writing deterministic guards around probabilistic systems.
 

@@ -1,4 +1,8 @@
-# Micah — Applied AI Systems & DevEx
+# Micah — Applied AI Systems & DevExa
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sherifican/sherifican/main/assets/banner.png" alt="Micah — Applied AI Systems & DevEx" width="100%" />
+</div>
 
 I build and operate multi-node AI workflows, custom developer tooling, and the verification layers that keep them reliable.
 

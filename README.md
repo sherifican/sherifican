@@ -1,5 +1,7 @@
 # Micah — Applied AI Systems & DevEx
 
+Drummer, systems builder, and cat person, that's where my Boxes/Systems get their names Mocha & Java from.
+
 I build and operate multi-node AI workflows, custom developer tooling, and the verification layers that keep them reliable.
 
 My core focus is practical execution: routing tasks by cost and capability rather than defaulting to the most expensive cloud models, running local inference on dedicated hardware, and writing deterministic guards around probabilistic systems.
@@ -24,4 +26,4 @@ My core focus is practical execution: routing tasks by cost and capability rathe
 
 ---
 
-Drummer, systems builder, and cat person, that's where my Boxes/Systems get their names Mocha & Java.
+

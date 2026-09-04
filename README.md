@@ -11,7 +11,7 @@ My core focus is practical execution: routing tasks by cost and capability rathe
 ### Core Repositories
 
 * **[Agent-FleetOps](https://github.com/sherifican/Agent-FleetOps)**  
-  The operational core for my local/cloud fleet: a 364-test hermetic terminal monitor, mutation-tested drift guards, protocol specs for concurrent coding agents, and an automated multi-box telemetry pipeline tracking real-world inference throughput across hardware tiers.
+Custom multi-agent orchestration built from scratch (no CrewAI, LangGraph, or any framework). Counters off-the-shelf failure modes — error cascades, argument loops, unverified agent trust — with mutation-proven drift guards, deterministic apply, driver-lock serialization, and verifier-first review panels. Routing decisions are made against real measured throughput per hardware tier, via a multi-box telemetry pipeline whose data is in the repo — not vendor benchmarks. A 364-test hermetic monitor proves every guard can fail. Validated in production via ParaKit (~3,000 clones)
 
   <a href="https://github.com/sherifican/Agent-FleetOps">
     <img src="https://raw.githubusercontent.com/sherifican/Agent-FleetOps/main/docs/banner.png"

@@ -21,7 +21,7 @@ Custom multi-agent orchestration built from scratch (no CrewAI, LangGraph, or an
 
 
 * **[ParaKit](https://github.com/sherifican/ParaKit-Open_Source)**  
-An open-source desktop Drum-Charting tool / audio/MIDI studio (neural stem splitting, spectral transcription, chart editing) built in Python 3.12. It serves as the live production testbed for my multi-agent locking protocols, release-upgrade harnesses, and AST-extracted test suites.
+An open-source desktop Drum-Charting tool / Audio-MIDI studio (neural stem splitting, spectral transcription, chart editing, Asset Management) built in Python 3.12. It serves as the live production testbed for my multi-agent locking protocols, release-upgrade harnesses, and AST-extracted test suites.
 
 
    <a href="https://github.com/sherifican/ParaKit-Open_Source">

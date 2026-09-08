@@ -1,7 +1,9 @@
 # Micah — Applied AI Systems & DevEx
 Drummer, systems builder, AI systems architecture & hardware enthusiast.
 ---
->"if I see one more hallucination I'm gonna throw my computer out the window" is the reason for Fleet Ops' creation.
+>*"if I see one more hallucination I'm gonna throw my computer out the window"*
+>
+>-This is the reason for Fleet Ops' creation.
  
 I build and operate multi-node AI workflows, workflow optimizations, custom developer tooling, and the verification layers that keep them reliable.
 

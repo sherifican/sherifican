@@ -1,10 +1,7 @@
 # Micah — Applied AI Systems & DevEx
 Drummer, systems builder, AI systems architecture & hardware enthusiast.
 ---
->*"if I see one more hallucination I'm gonna throw my computer out the window"*
->
->-This is the reason for Fleet Ops' creation.
- 
+
 I build and operate multi-node AI workflows, workflow optimizations, custom developer tooling, and the verification layers that keep them reliable.
 
 My core focus is practical execution: routing tasks by cost and capability rather than defaulting to the most expensive cloud models, running local inference on dedicated hardware, and writing deterministic guards around probabilistic systems.
@@ -14,6 +11,10 @@ My core focus is practical execution: routing tasks by cost and capability rathe
 ### Core Repositories
 
 * **[Agent-FleetOps](https://github.com/sherifican/Agent-FleetOps)**  
+>*"if I see one more hallucination I'm gonna throw my computer out the window"*
+>
+>-This is the reason for Fleet Ops' creation.
+
 Custom multi-agent orchestration built from scratch (no CrewAI, LangGraph, or any framework). Counters off-the-shelf failure modes — error cascades, argument loops, unverified agent trust — with mutation-proven drift guards, deterministic apply, driver-lock serialization, and verifier-first review panels. Routing decisions are made against real measured throughput per hardware tier, via a multi-box telemetry pipeline whose data is in the repo — not vendor benchmarks. A 364-test hermetic monitor proves every guard can fail. Validated in production via ParaKit (~3,000 clones)
 
   <a href="https://github.com/sherifican/Agent-FleetOps">

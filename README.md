@@ -16,13 +16,13 @@ Custom multi-agent orchestration built from scratch (no CrewAI, LangGraph, or an
 >*"if I see one more hallucination I'm gonna throw my computer out the window"*
 >
 >-This is the reason for Fleet Ops' creation.
----
   <a href="https://github.com/sherifican/Agent-FleetOps">
     <img src="https://raw.githubusercontent.com/sherifican/Agent-FleetOps/main/docs/banner.png"
          alt="Agent-FleetOps — operational tooling and verification infrastructure for multi-agent fleets"
          width="100%">
   </a>
 
+---
 
 * **[ParaKit](https://github.com/sherifican/ParaKit-Open_Source)**  
 An open-source desktop Drum-Charting tool / Audio-MIDI studio (Neural Stem Splitting, Spectral Transcription, Chart Editing, Asset Management) built in Python 3.12. It serves as the live production testbed for my multi-agent locking protocols, release-upgrade harnesses, and AST-extracted test suites.

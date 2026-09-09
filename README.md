@@ -16,7 +16,8 @@ Custom multi-agent orchestration built from scratch (no CrewAI, LangGraph, or an
 >*"if I see one more hallucination I'm gonna throw my computer out the window"*
 >
 >-This is the reason for Fleet Ops' creation.
-  <a href="https://github.com/sherifican/Agent-FleetOps">
+
+ <a href="https://github.com/sherifican/Agent-FleetOps">
     <img src="https://raw.githubusercontent.com/sherifican/Agent-FleetOps/main/docs/banner.png"
          alt="Agent-FleetOps — operational tooling and verification infrastructure for multi-agent fleets"
          width="100%">

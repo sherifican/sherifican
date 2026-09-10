@@ -11,7 +11,7 @@ My core focus is practical execution: routing tasks by cost and capability rathe
 ### Core Repositories
 
 * **[Agent-FleetOps](https://github.com/sherifican/Agent-FleetOps)**  
-Custom multi-agent orchestration built from scratch (no CrewAI, LangGraph, or any framework). Counters off-the-shelf failure modes — error cascades, argument loops, unverified agent trust — with mutation-proven drift guards, deterministic apply, driver-lock serialization, and verifier-first review panels. Routing decisions are made against real measured throughput per hardware tier, via a multi-box telemetry pipeline whose data is in the repo — not vendor benchmarks. A 364-test hermetic monitor proves every guard can fail. Validated in production via ParaKit (~3,000 clones)
+Custom multi-agent orchestration built from scratch (no CrewAI, LangGraph, or any framework). Counters off-the-shelf failure modes — error cascades, argument loops, unverified agent trust — with mutation-proven drift guards, deterministic apply, driver-lock serialization, and verifier-first review panels. Routing decisions are made against real measured throughput per hardware tier, via a multi-box telemetry pipeline whose data is in the repo — not vendor benchmarks. Every check ships with proof it can fail; the live counts live in the repo, where a guard can go red. Validated in production via [ParaKit](https://github.com/sherifican/ParaKit-Open_Source)
 
 >*"if I see one more hallucination I'm gonna throw my computer out the window"*
 >
